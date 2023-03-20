@@ -1,0 +1,3 @@
+C:\Users\tapio\Desktop\AllConcatenadorGDrive.pdb
+C:\Users\tapio\Desktop\clientSecrets.json
+C:\Users\tapio\Desktop\AllConcatenadorGDrive.exe

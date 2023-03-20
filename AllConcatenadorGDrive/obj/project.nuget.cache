@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "BOwMZbryNNIdRGjBFwRIovON3tFPJBptSi4BVfnOB6AvL4g+2I6oUDeHQPB4ush1Thhia94TAXWJWmyvFC/ndg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tapio\\Documents\\ProjetosCaio\\AllConcatenadorGDrive\\AllConcatenadorGDrive\\AllConcatenadorGDrive.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tapio\\.nuget\\packages\\google.apis\\1.59.0\\google.apis.1.59.0.nupkg.sha512",
+    "C:\\Users\\tapio\\.nuget\\packages\\google.apis.auth\\1.59.0\\google.apis.auth.1.59.0.nupkg.sha512",
+    "C:\\Users\\tapio\\.nuget\\packages\\google.apis.core\\1.59.0\\google.apis.core.1.59.0.nupkg.sha512",
+    "C:\\Users\\tapio\\.nuget\\packages\\google.apis.drive.v2\\1.59.0.2859\\google.apis.drive.v2.1.59.0.2859.nupkg.sha512",
+    "C:\\Users\\tapio\\.nuget\\packages\\google.apis.drive.v3\\1.59.0.2922\\google.apis.drive.v3.1.59.0.2922.nupkg.sha512",
+    "C:\\Users\\tapio\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
